@@ -15,14 +15,3 @@ describe("number", () => {
     });
 
 });
-
-//
-// test("Filter function", () => {
-//     expect(count(5456456, "link")).toBe(7);
-//
-// });
-//
-// test("Filter function", () => {
-//     expect(count(5456456, "link")).toBe(7);
-//
-// });
