@@ -1,5 +1,5 @@
 const {sum} = require('./task')
-
+// знайти суму
 
 describe("Sum of Numbers", () => {
     it("given number - show the result", () => {

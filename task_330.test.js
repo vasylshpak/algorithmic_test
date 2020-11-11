@@ -1,6 +1,6 @@
 const {ab} = require('./task')
 
-
+//всі Ідеальні натуральні числа н яке дорівнює сумі всіх своїх дільників
 describe("number", () => {
     it("given number - show the result", () => {
         expect(ab(234)).toEqual([ 6, 28 ]);
